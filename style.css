@@ -1,0 +1,90 @@
+
+
+#navbar {
+    background-color:beige;
+}
+
+* {
+    font-size: 20px;
+    background-color: rgba(245, 245, 220, 0.66);
+
+}
+
+body {
+    background-image: url("Lemon\ view.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Lustria', serif;
+    text-align: center;
+}
+
+.H1font {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+
+}
+
+.brainfood {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph1 {
+    text-align: start;
+}
+
+.reasons {
+    text-align: start;
+}
+
+.info {
+    font-size: 20px;
+    background-color: rgba(245, 245, 220, 0.716);
+    text-align: center;
+}
+    
+h1, h2, h3, p *{
+    background-color: rgba(245, 245, 220, 0.616);
+    font-size: 28px;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 2px;
+    border: 0px;
+}
+
+h1, h2, h3 {
+    text-align: center
+}
+
+.linkhere {
+    font-size: 20px;
+}
+
+#navbar {
+    display: flex;
+    background-color: rgba(250, 250, 245, 0.222);
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: space-evenly;
+}
+
+#navbar a {
+    text-decoration:wavy;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#navbar a:hover {
+    color:aquamarine;
+}
+
+.sendemail {
+    font-size: 20px;
+}
+
+
+/* .about{
+    font-family: 'Lustria', serif;
+} */
